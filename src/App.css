@@ -1,0 +1,14 @@
+body{
+  margin: 0 auto;
+  width: 960px;
+  font-family: Helvetica;
+  background: #58B19F;
+  color: #2C3A47;
+  text-align: center;
+  
+}
+
+.app{
+  width: 920px;
+  margin: 0 auto;
+}
